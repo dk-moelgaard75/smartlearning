@@ -1,0 +1,11 @@
+C:\udv\smartlearning\web\backend\uge2\DieGames\DieGames\bin\Debug\netcoreapp2.1\DieGames.deps.json
+C:\udv\smartlearning\web\backend\uge2\DieGames\DieGames\bin\Debug\netcoreapp2.1\DieGames.runtimeconfig.json
+C:\udv\smartlearning\web\backend\uge2\DieGames\DieGames\bin\Debug\netcoreapp2.1\DieGames.runtimeconfig.dev.json
+C:\udv\smartlearning\web\backend\uge2\DieGames\DieGames\bin\Debug\netcoreapp2.1\DieGames.dll
+C:\udv\smartlearning\web\backend\uge2\DieGames\DieGames\bin\Debug\netcoreapp2.1\DieGames.pdb
+C:\udv\smartlearning\web\backend\uge2\DieGames\DieGames\obj\Debug\netcoreapp2.1\DieGames.csprojAssemblyReference.cache
+C:\udv\smartlearning\web\backend\uge2\DieGames\DieGames\obj\Debug\netcoreapp2.1\DieGames.csproj.CoreCompileInputs.cache
+C:\udv\smartlearning\web\backend\uge2\DieGames\DieGames\obj\Debug\netcoreapp2.1\DieGames.AssemblyInfoInputs.cache
+C:\udv\smartlearning\web\backend\uge2\DieGames\DieGames\obj\Debug\netcoreapp2.1\DieGames.AssemblyInfo.cs
+C:\udv\smartlearning\web\backend\uge2\DieGames\DieGames\obj\Debug\netcoreapp2.1\DieGames.dll
+C:\udv\smartlearning\web\backend\uge2\DieGames\DieGames\obj\Debug\netcoreapp2.1\DieGames.pdb
