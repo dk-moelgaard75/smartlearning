@@ -1,0 +1,11 @@
+C:\udv\smartlearning\web\backend\uge2\2_2\CelciusFahrenheitConverter\CelciusFahrenheitConverter\obj\Debug\netcoreapp2.1\CelciusFahrenheitConverter.csprojAssemblyReference.cache
+C:\udv\smartlearning\web\backend\uge2\2_2\CelciusFahrenheitConverter\CelciusFahrenheitConverter\obj\Debug\netcoreapp2.1\CelciusFahrenheitConverter.csproj.CoreCompileInputs.cache
+C:\udv\smartlearning\web\backend\uge2\2_2\CelciusFahrenheitConverter\CelciusFahrenheitConverter\obj\Debug\netcoreapp2.1\CelciusFahrenheitConverter.AssemblyInfoInputs.cache
+C:\udv\smartlearning\web\backend\uge2\2_2\CelciusFahrenheitConverter\CelciusFahrenheitConverter\obj\Debug\netcoreapp2.1\CelciusFahrenheitConverter.AssemblyInfo.cs
+C:\udv\smartlearning\web\backend\uge2\2_2\CelciusFahrenheitConverter\CelciusFahrenheitConverter\bin\Debug\netcoreapp2.1\CelciusFahrenheitConverter.deps.json
+C:\udv\smartlearning\web\backend\uge2\2_2\CelciusFahrenheitConverter\CelciusFahrenheitConverter\bin\Debug\netcoreapp2.1\CelciusFahrenheitConverter.runtimeconfig.json
+C:\udv\smartlearning\web\backend\uge2\2_2\CelciusFahrenheitConverter\CelciusFahrenheitConverter\bin\Debug\netcoreapp2.1\CelciusFahrenheitConverter.runtimeconfig.dev.json
+C:\udv\smartlearning\web\backend\uge2\2_2\CelciusFahrenheitConverter\CelciusFahrenheitConverter\bin\Debug\netcoreapp2.1\CelciusFahrenheitConverter.dll
+C:\udv\smartlearning\web\backend\uge2\2_2\CelciusFahrenheitConverter\CelciusFahrenheitConverter\bin\Debug\netcoreapp2.1\CelciusFahrenheitConverter.pdb
+C:\udv\smartlearning\web\backend\uge2\2_2\CelciusFahrenheitConverter\CelciusFahrenheitConverter\obj\Debug\netcoreapp2.1\CelciusFahrenheitConverter.dll
+C:\udv\smartlearning\web\backend\uge2\2_2\CelciusFahrenheitConverter\CelciusFahrenheitConverter\obj\Debug\netcoreapp2.1\CelciusFahrenheitConverter.pdb

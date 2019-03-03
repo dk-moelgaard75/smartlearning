@@ -1,0 +1,11 @@
+C:\udv\smartlearning\web\backend\uge2\2_1\CurrencyConverter\CurrencyConverter\bin\Debug\netcoreapp2.1\CurrencyConverter.deps.json
+C:\udv\smartlearning\web\backend\uge2\2_1\CurrencyConverter\CurrencyConverter\bin\Debug\netcoreapp2.1\CurrencyConverter.runtimeconfig.json
+C:\udv\smartlearning\web\backend\uge2\2_1\CurrencyConverter\CurrencyConverter\bin\Debug\netcoreapp2.1\CurrencyConverter.runtimeconfig.dev.json
+C:\udv\smartlearning\web\backend\uge2\2_1\CurrencyConverter\CurrencyConverter\bin\Debug\netcoreapp2.1\CurrencyConverter.dll
+C:\udv\smartlearning\web\backend\uge2\2_1\CurrencyConverter\CurrencyConverter\bin\Debug\netcoreapp2.1\CurrencyConverter.pdb
+C:\udv\smartlearning\web\backend\uge2\2_1\CurrencyConverter\CurrencyConverter\obj\Debug\netcoreapp2.1\CurrencyConverter.csprojAssemblyReference.cache
+C:\udv\smartlearning\web\backend\uge2\2_1\CurrencyConverter\CurrencyConverter\obj\Debug\netcoreapp2.1\CurrencyConverter.csproj.CoreCompileInputs.cache
+C:\udv\smartlearning\web\backend\uge2\2_1\CurrencyConverter\CurrencyConverter\obj\Debug\netcoreapp2.1\CurrencyConverter.AssemblyInfoInputs.cache
+C:\udv\smartlearning\web\backend\uge2\2_1\CurrencyConverter\CurrencyConverter\obj\Debug\netcoreapp2.1\CurrencyConverter.AssemblyInfo.cs
+C:\udv\smartlearning\web\backend\uge2\2_1\CurrencyConverter\CurrencyConverter\obj\Debug\netcoreapp2.1\CurrencyConverter.dll
+C:\udv\smartlearning\web\backend\uge2\2_1\CurrencyConverter\CurrencyConverter\obj\Debug\netcoreapp2.1\CurrencyConverter.pdb
