@@ -1,0 +1,10 @@
+C:\udv\smartlearning\web\backend\uge2\2_5\ModulusDemo\ModulusDemo\bin\Debug\netcoreapp2.1\ModulusDemo.deps.json
+C:\udv\smartlearning\web\backend\uge2\2_5\ModulusDemo\ModulusDemo\bin\Debug\netcoreapp2.1\ModulusDemo.runtimeconfig.json
+C:\udv\smartlearning\web\backend\uge2\2_5\ModulusDemo\ModulusDemo\bin\Debug\netcoreapp2.1\ModulusDemo.runtimeconfig.dev.json
+C:\udv\smartlearning\web\backend\uge2\2_5\ModulusDemo\ModulusDemo\bin\Debug\netcoreapp2.1\ModulusDemo.dll
+C:\udv\smartlearning\web\backend\uge2\2_5\ModulusDemo\ModulusDemo\bin\Debug\netcoreapp2.1\ModulusDemo.pdb
+C:\udv\smartlearning\web\backend\uge2\2_5\ModulusDemo\ModulusDemo\obj\Debug\netcoreapp2.1\ModulusDemo.csproj.CoreCompileInputs.cache
+C:\udv\smartlearning\web\backend\uge2\2_5\ModulusDemo\ModulusDemo\obj\Debug\netcoreapp2.1\ModulusDemo.AssemblyInfoInputs.cache
+C:\udv\smartlearning\web\backend\uge2\2_5\ModulusDemo\ModulusDemo\obj\Debug\netcoreapp2.1\ModulusDemo.AssemblyInfo.cs
+C:\udv\smartlearning\web\backend\uge2\2_5\ModulusDemo\ModulusDemo\obj\Debug\netcoreapp2.1\ModulusDemo.dll
+C:\udv\smartlearning\web\backend\uge2\2_5\ModulusDemo\ModulusDemo\obj\Debug\netcoreapp2.1\ModulusDemo.pdb

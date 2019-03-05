@@ -1,0 +1,11 @@
+C:\udv\smartlearning\web\backend\uge2\2_4\Calculus\Calculus\bin\Debug\netcoreapp2.1\Calculus.deps.json
+C:\udv\smartlearning\web\backend\uge2\2_4\Calculus\Calculus\bin\Debug\netcoreapp2.1\Calculus.runtimeconfig.json
+C:\udv\smartlearning\web\backend\uge2\2_4\Calculus\Calculus\bin\Debug\netcoreapp2.1\Calculus.runtimeconfig.dev.json
+C:\udv\smartlearning\web\backend\uge2\2_4\Calculus\Calculus\bin\Debug\netcoreapp2.1\Calculus.dll
+C:\udv\smartlearning\web\backend\uge2\2_4\Calculus\Calculus\bin\Debug\netcoreapp2.1\Calculus.pdb
+C:\udv\smartlearning\web\backend\uge2\2_4\Calculus\Calculus\obj\Debug\netcoreapp2.1\Calculus.csprojAssemblyReference.cache
+C:\udv\smartlearning\web\backend\uge2\2_4\Calculus\Calculus\obj\Debug\netcoreapp2.1\Calculus.csproj.CoreCompileInputs.cache
+C:\udv\smartlearning\web\backend\uge2\2_4\Calculus\Calculus\obj\Debug\netcoreapp2.1\Calculus.AssemblyInfoInputs.cache
+C:\udv\smartlearning\web\backend\uge2\2_4\Calculus\Calculus\obj\Debug\netcoreapp2.1\Calculus.AssemblyInfo.cs
+C:\udv\smartlearning\web\backend\uge2\2_4\Calculus\Calculus\obj\Debug\netcoreapp2.1\Calculus.dll
+C:\udv\smartlearning\web\backend\uge2\2_4\Calculus\Calculus\obj\Debug\netcoreapp2.1\Calculus.pdb
