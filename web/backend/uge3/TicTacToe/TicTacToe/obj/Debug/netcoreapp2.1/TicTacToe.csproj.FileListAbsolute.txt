@@ -1,0 +1,6 @@
+C:\udv\smartlearning\web\backend\uge3\TicTacToe\TicTacToe\obj\Debug\netcoreapp2.1\TicTacToe.csprojAssemblyReference.cache
+C:\udv\smartlearning\web\backend\uge3\TicTacToe\TicTacToe\obj\Debug\netcoreapp2.1\TicTacToe.csproj.CoreCompileInputs.cache
+C:\udv\smartlearning\web\backend\uge3\TicTacToe\TicTacToe\obj\Debug\netcoreapp2.1\TicTacToe.RazorAssemblyInfo.cache
+C:\udv\smartlearning\web\backend\uge3\TicTacToe\TicTacToe\obj\Debug\netcoreapp2.1\TicTacToe.RazorAssemblyInfo.cs
+C:\udv\smartlearning\web\backend\uge3\TicTacToe\TicTacToe\obj\Debug\netcoreapp2.1\TicTacToe.AssemblyInfoInputs.cache
+C:\udv\smartlearning\web\backend\uge3\TicTacToe\TicTacToe\obj\Debug\netcoreapp2.1\TicTacToe.AssemblyInfo.cs
